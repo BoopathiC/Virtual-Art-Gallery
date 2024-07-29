@@ -1,0 +1,38 @@
+.kim {
+  position: relative;
+  height: 100%;
+  background: rgba(0, 0, 0, 0.504);
+  font-family: Helvetica Neue, Helvetica, Arial, sans-serif;
+  font-size: 14px;
+  color: #000;
+  margin: 0;
+  padding: 0;
+  overflow-x: hidden; 
+  width: 100%;
+  max-height: 400px; 
+}
+
+.mySwiper {
+  display: flex;
+  align-items: center; 
+  justify-content: center; 
+  padding: 20px; 
+}
+
+.swiper-slide {
+  flex: 0 0 auto; 
+  margin: 0 10px; 
+}
+
+.slidewipok {
+  width: 100%; 
+  max-width: 300px; 
+  height: auto; 
+}
+
+.kima {
+  display: block;
+  width: 100%;
+  height: auto; 
+  border-radius: 15px;
+}

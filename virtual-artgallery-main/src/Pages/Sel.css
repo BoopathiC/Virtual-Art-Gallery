@@ -1,0 +1,946 @@
+.form101 {
+  width: 300px;
+  height:100%;
+  padding: 20px;
+  border-radius: 5px;
+}
+
+.fg101 {
+  margin-bottom: 20px;
+}
+
+#label101 {
+  margin-bottom: 5px;
+}
+
+#inp101 {
+  width: 300px;
+  padding: 8px;
+  border: 1px solid #ccc;
+  border-radius: 5px;
+  background-color: #b8b0b03b;
+}
+#sbutton101 {
+  background-color: #007bff;
+  color: #fff;
+  border: none;
+  border-radius: 5px;
+  padding: 10px 20px;
+  cursor: pointer;
+}
+
+#sbutton101:hover {
+  background-color: #0056b3;
+}
+
+.error{
+  color: red;
+  font-size: 0.4;
+}
+.sidecont101{
+  height: 300px;
+  width:300px;
+  padding: 5px;
+  transition: transform 0.3s ease;
+  margin:10px;
+  transition: transform 0.3s ease;
+  border-radius: 15px;
+}
+.sidecont101:hover{
+  transform: scale(1.05);
+}
+#img1101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/OIP.gPMKLd95zzS7kdL_jK0W6QAAAA?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img2101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/OIP.jdaHghoFyCN5YpihFL0o9gHaLH?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img3101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://wallpapercave.com/wp/wp10333896.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img4101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/OIP.mzqorY20ePUgKhhJjBAYPwAAAA?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img5101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://i.pinimg.com/originals/1f/74/33/1f74333622210f160a5071d3d30d5192.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img6101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/OIP.2oA7xmzAp44p52pTWHkYkwHaLH?w=512&h=768&rs=1&pid=ImgDetMain');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img7101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('  https://img.freepik.com/premium-vector/harry-potter-vector-illustration_969863-10262.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img8101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/OIP.qx1S7epgDuaX67OMAOXLNgAAAA?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img9101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://img.xcitefun.net/users/2009/10/118238,xcitefun-fantasy-art-9.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img10101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://static.vecteezy.com/system/resources/previews/022/011/128/non_2x/beautiful-big-blue-eyes-macro-illustration-generative-ai-free-photo.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img11101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/OIP.NOGUKonr_PUrFaYvohORXQHaKb?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img12101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://cdn.idevie.com/wp-content/uploads/2020/05/illustrations_7.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img13101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://1.bp.blogspot.com/-bsSEgIqnk8k/XYkGGv1rhmI/AAAAAAAAwiw/g-fB06JShm4PSBnExsStghZ-Y74BZjRTQCLcBGAsYHQ/s1600/arthur-henri-waterborne.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img14101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/R.336f0c9bb724281a27a6e2c113f55ab2?rik=WlMsxXhWJ1vXyg&riu=http%3a%2f%2fartist.com%2fart-recognition-and-education%2fwp-content%2fthemes%2fartist-blog%2fmedia-files%2f2016%2f03%2fimpressionism-2.jpg&ehk=LXH818%2bgTXkxoglI8FHHTohagHmLdQ7q%2bH0a2vlneTE%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img15101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/OIP.3B-9OYmXPUAbPNgEqEfzGgHaF7?w=650&h=521&rs=1&pid=ImgDetMain');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img16101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://cdn.wallpapersafari.com/40/66/WSpC83.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img17101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://cdn.wallpapersafari.com/4/99/N39Vsv.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img18101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://aridavidrosenthal.com/wp-content/uploads/2018/02/20_new_ari_rosenthal_22-23-1.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img19101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url(' https://lavelart.com/wp-content/uploads/2020/03/190904125022-bob-ross-traceofspring-2605-scaled.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img20101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/R.3c5c81e1232bac19d611b11adfb25fe9?rik=2wCOOUqW%2b6cFAQ&riu=http%3a%2f%2fthewowstyle.com%2fwp-content%2fuploads%2f2015%2f04%2fBest-Modern-Art.jpg&ehk=HCiLyZ6Uyv5pUdSfQ7%2fKrdntqTByu2%2b2vWO0nUT3Zno%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img21101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/OIP.AuUr7Z3dlFHWosesrTzFiQHaHa?w=1200&h=1200&rs=1&pid=ImgDetMain');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img22101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://i.pinimg.com/originals/5a/f5/fc/5af5fc39a972143a3b4704eaf82aef2b.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img23101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://2.bp.blogspot.com/-yqtxPSN46BY/UwzWQ1vVTjI/AAAAAAAAYT8/2QmnxyW38AM/s1600/Beautiful++Art+Wallpapers+(38).jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img24101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://img.freepik.com/premium-photo/woman-with-hat-flowers-her-head_582637-1856.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img25101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://images.nightcafe.studio/jobs/fRE2Fkjed3eJkoWbjV2C/fRE2Fkjed3eJkoWbjV2C--1--iaz31_6x.jpg?tr=w-1600,c-at_max');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img26101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://wallpaperaccess.com/full/1918043.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img27101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://1.bp.blogspot.com/-hdZqKcQKf4Y/XT545xGuK_I/AAAAAAAATgQ/zR93Fs_sra8ZFZ7aUwjahw7zuRXt4EYPgCLcBGAs/s2560/ancient-tree-4k-ek-2560x1600.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img28101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://i.pinimg.com/originals/84/da/0d/84da0daf5eb0bca19af8f41807eba5d1.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img29101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://i.pinimg.com/originals/a1/8d/57/a18d573c25012a348dbcb49d7562d308.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img30101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/OIP.qQrvtO6IvlUUoP_u-B5I2gHaJI?w=568&h=700&rs=1&pid=ImgDetMain');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img31101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/R.68cd81a5d34fc59379a029a6af8bff28?rik=5BNAnT3vG%2bQxvQ&riu=http%3a%2f%2fhobbylesson.com%2fwp-content%2fuploads%2f2017%2f10%2fNew-Acrylic-Paintings-to-Admire00020.jpg&ehk=CkQbBDpTbz29oHkpCWEo4rBuz77NlTmV29IifuDMnDA%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img32101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://render.fineartamerica.com/images/rendered/medium/print/6/8/break/images/artworkimages/medium/1/morning-glow-iris-nancy-medina.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img33101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/R.a642e8890d970b8dc488dc68fb9ce256?rik=Zpx1Aqp15N%2bovQ&riu=http%3a%2f%2fwww.cartoondistrict.com%2fwp-content%2fuploads%2f2017%2f02%2fEasy-Acrylic-Painting-Ideas-for-Beginners-to-try6.jpg&ehk=nddGNt7nMtI6eN%2bRvdDpDccfDER%2bn5V4mul2LlKsQUE%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img34101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://i.pinimg.com/originals/fb/b1/9b/fbb19b090823bc7b63c85771abf07d65.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img35101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://cdn.shopify.com/s/files/1/2629/2348/files/1_18.jpg?v=1616051706');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img36101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/R.669a8fb8d14767cb861a60bf67d42aee?rik=smMclkpnzhck0Q&riu=http%3a%2f%2fhobbylesson.com%2fwp-content%2fuploads%2f2015%2f04%2fSimple-Acrylic-Painting-Ideas00012.jpg&ehk=fYj9gMR7FuWWN1DtbbDsnOdXtCqhIzX%2fv%2bvQ1FPWmJU%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img37101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/R.ec1dc17f73f3ec0e21006393dacea50b?rik=bfm1SCqS6Ew%2bbA&riu=http%3a%2f%2fhobbylesson.com%2fwp-content%2fuploads%2f2015%2f04%2fSimple-Acrylic-Painting-Ideas00010.jpg&ehk=2IHsHNYaOx8m2YNniBJzowNP2aI65BvTcZ0H7M0rO84%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img38101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/OIP.z4GlkCIwCfWJxUghBT2jIwHaJU?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img39101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://www.harunmudak.com/wp-content/uploads/2020/02/New-Acrylic-Painting-Ideas-to-Try-26.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img40101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://www.harunmudak.com/wp-content/uploads/2020/02/20-Delicate-Beautiful-Acrylic-Painting-Ideas-homesthetics-10-758x1024.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img41101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://i.pinimg.com/originals/3a/a0/d4/3aa0d4fc2a56733186f8177c31264451.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img42101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://i.pinimg.com/originals/c6/1f/9c/c61f9c28bc564c27e8c44754c034df95.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img43101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://i.pinimg.com/originals/c3/bd/6d/c3bd6d39788c9323707927fdbe120970.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img44101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/OIP.esy2IGRLrBanswcumo9N7AAAAA?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img45101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://harunmudak.com/wp-content/uploads/2020/02/sierrabriggsart_8411_4sA37-1024x950.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img46101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/R.6e70b9b75e53f73a09e575447e18f75d?rik=NlGzq0E40iGmoA&riu=http%3a%2f%2fwww.cartoondistrict.com%2fwp-content%2fuploads%2f2019%2f01%2fEasy-Acrylic-Painting-Ideas-on-Canvas-18.jpg&ehk=O1tug6IcMNp0m1R7qWLjI9J0d9Odzxa%2brDiYU3CBvbQ%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img47101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/R.bd1150c1d4569ec5716d34c0de02ec01?rik=rQM1d8BrzX6qNQ&riu=http%3a%2f%2fhobbylesson.com%2fwp-content%2fuploads%2f2015%2f04%2fSimple-Acrylic-Painting-Ideas00001.jpg&ehk=LjCBIQ3JmHj8vQMd%2fYfmyioU7OF%2bVlVZKFnTTTjwKzA%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img48101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/OIP.lesVuVaMdfCb3l8TIgeEiQHaFu?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img49101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://i.pinimg.com/originals/ac/bd/fd/acbdfd18fc5a8e95f3bbbeaf50bbd051.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img50101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/OIP.6vvQFlZ6naFYLMULolcGPgHaJY?rs=1&pid=ImgDetMain');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    color: #54b3d6;
+    transition: transform 0.3s ease;
+}
+#img1101:hover,#img2101:hover,#img3101:hover,#img4101:hover,#img5101:hover,#img6101:hover,#img7101:hover,#img8101:hover,#img9101:hover,#img10101:hover,
+#img11101:hover,#img12101:hover,#img13101:hover,#img14101:hover,#img15101:hover,#img16101:hover,#img17101:hover,#img18101:hover,#img19101:hover,#img20101:hover,
+#img21101:hover,#img22101:hover,#img23101:hover,#img24101:hover,#img25101:hover,#img26101:hover,#img27101:hover,#img28101:hover,#img29101:hover,#img30101:hover,
+#img31101:hover,#img32101:hover,#img33101:hover,#img34101:hover,#img35101:hover,#img36101:hover,#img37101:hover,#img38101:hover,#img39101:hover,#img40101:hover,
+#img41101:hover,#img42101:hover,#img43101:hover,#img44101:hover,#img45101:hover,#img46101:hover,#img47101:hover,#img48101:hover,#img49101:hover,#img50101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+  color: white;
+}
+#artimg2
+{
+    width: 100%;
+    height: 60%;
+    border-top-left-radius: 10px;
+    border-top-right-radius: 10px;
+    background-image: url('https://blog.breathingcolor.com/wp-content/uploads/2017/01/BC-digital-traditional-painting-COVER.jpg');
+    background-size: cover;
+}
+#wholesidecont101{
+  border-radius: 0px;
+  overflow-y: scroll;
+  height: 1300px;
+  border: 1px solid #ccc;
+  width:100%;
+  /* background-color: #0101012c; */
+  /* margin-top:10px; */
+  padding-bottom: 0px;
+}
+::-webkit-scrollbar {
+  width: 8px; 
+  height: 8px; 
+}
+/* #wholepgcont101
+{
+  height:1100px;
+  display: inline-block;
+
+} */
+#hpgtop101{
+
+  border-radius: 0px;
+  overflow-y: scroll;
+  height: 380px;
+  border: 1px solid #ccc;
+  width:400px;
+  /* background-color: #0101012c; */
+  margin-top:10px;
+  padding-bottom: 0px;
+  margin-left: 10px;
+}
+#whole101{
+  display:flex;
+  background-color: #b8b0b0ad;
+  width:100%;
+}
+#hgtopright101{
+  margin-left:56px;
+  overflow-x:scroll;
+  height: 405px;
+  width:650px;
+  /* margin-top:-10px; */
+  white-space: nowrap;
+  /* border: 1px solid black; */
+  /* border:1px solid black; */
+}
+.rsidecont101{
+  height: 350px;
+  width:300px;
+  /* padding: 5px; */
+  transition: transform 0.3s ease;
+  margin:10px;
+  transition: transform 0.3s ease;
+  border-radius: 15px;
+  display: inline-block;
+  margin-top:2.5px;
+  
+}
+.rsidecont101:hover{
+  transform: scale(1.05);
+}
+#rimg1101
+{
+  width: 300px;
+  height: 300px;
+  background-image: url('https://mulsanit.com/assets/img/about/about1.jpg');
+  background-size: cover;
+  box-shadow: inset 0 0 0 0 #01010147;
+  transition: transform 0.3s ease;
+  display:inline-block;
+}
+#rimg2101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://www.corporatevision-news.com/wp-content/uploads/2021/07/Office-Manager.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    transition: transform 0.3s ease;
+    display:inline-block;
+}
+#rimg3101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://c.pxhere.com/images/9c/fa/a11a8d320d6fd7b33ea0068eb0f1-1456583.jpg!d');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    transition: transform 0.3s ease;
+    display:inline-block;
+}
+#rimg4101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://online-english.biz.ua/img/img_folder08/8_Business-Manager.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    transition: transform 0.3s ease;
+    display:inline-block;
+    background-size: cover;
+}
+#rimg5101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://d39l2hkdp2esp1.cloudfront.net/img/photo/133301/133301_00_2x.jpg?20171108061831');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    transition: transform 0.3s ease;
+    display:inline-block;
+}
+#rimg6101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://www.findabusinessthat.com/blog/wp-content/uploads/2022/01/e35a25d810b79737083717ebd8ec3d10.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    transition: transform 0.3s ease;
+    display:inline-block;
+}
+#rimg7101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://www.oracle.com/a/ocom/img/cb125-hr-help-desk.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    transition: transform 0.3s ease;
+    display:inline-block;
+}
+#rimg8101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/R.ef2643db4c888724ead4582e9110b216?rik=bl8O9HMaeToU3Q&riu=http%3a%2f%2fwww.actisspartners.com%2fwp-content%2fuploads%2f2016%2f06%2fmanager.jpg&ehk=h%2bJdpJLDdDwdIWgPi3Bewk2PWJ1xV53kp2SRAO3A%2bN8%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    transition: transform 0.3s ease;
+    display:inline-block;
+}
+#rimg9101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://pixfeeds.com/images/33/610557/1200-518855530-satisfied-employee.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    transition: transform 0.3s ease;
+    display:inline-block;
+}
+#rimg10101
+{
+    width: 300px;
+    height: 300px;
+    /* object-fit: cover; */
+    background-image: url('https://cdn9.dissolve.com/p/D538_479_033/D538_479_033_1200.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    transition: transform 0.3s ease;
+    display:inline-block;
+}
+#rimg11101
+{
+    width: 300px;
+    height: 300px;
+    /* object-fit: cover; */
+    background-image: url('https://www.obsidianhr.com/wp-content/uploads/2021/08/Q321-eGuide-RetainEmployees-ResourceHeader.png');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    transition: transform 0.3s ease;
+    display:inline-block;
+}
+#rimg12101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://th.bing.com/th/id/R.ee84056e3fdfa561c3962f896034b2a7?rik=VT2XGF4YLDImNw&riu=http%3a%2f%2fimg.fixthephoto.com%2fUserFiles%2fImage%2fhow-to-airbrush-photos.jpg&ehk=XgCFh3NcrJTWAQERPYU70wakS0BvVWYDk5lLlMJr1jc%3d&risl=&pid=ImgRaw&r=0');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    transition: transform 0.3s ease;
+    display:inline-block;
+}
+#rimg13101
+{
+    width: 300px;
+    height: 300px;
+    object-fit: cover;
+    background-image: url('https://mcmahonagency.com/wp-content/uploads/2020/10/smiling-businesswoman-on-laptop-at-work.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    transition: transform 0.3s ease;
+    display:inline-block;
+}
+#rimg14101
+{
+    width: 300px;
+    height: 300px;
+    /* object-fit: cover; */
+    background-image: url('https://realisetraining.com/wp-content/uploads/SM-WEB.jpg');
+    background-size: cover;
+    box-shadow: inset 0 0 0 0 #01010147;
+    transition: transform 0.3s ease;
+    display:inline-block;
+}
+#rimg1101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+}
+#rimg2101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+}
+#rimg3101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+}
+#rimg4101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+}
+#rimg5101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+}
+#rimg6101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+}
+#rimg7101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+}
+#rimg8101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+}
+#rimg9101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+}
+#rimg10101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+}
+#rimg11101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+}
+#rimg12101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+}
+#rimg13101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+}
+#rimg14101:hover{
+  box-shadow: inset 300px 0 0 0 #0101012e;
+}
+#git101{
+  width: 250px;
+  height:50px;
+  border-radius: 40px;
+  color:white;
+  font-size:xx-large;
+  margin-top: 50px;
+  margin-left: 450px;
+  background-color: rgba(0, 0, 0, 0.495);
+  transition: transform 0.3s ease;
+  border: 1px solid black;
+  font-size: 15px;
+}
+#git101:hover{
+  background-color: rgba(0, 0, 0, 0.693);
+  transform: scale(1.05);
+  border: 1px solid black;
+}
+#ll101{
+  margin-left: 240px;
+  height:45px;
+  width:130px;
+  font-size: 20px;
+  background-color: rgba(0, 128, 0, 0.874);
+  border-radius: 25px;
+  border:1px solid black;
+  transition: transform 0.3s ease;
+}
+#ll101:hover{
+  background-color: rgba(0, 128, 0, 0.681);
+  transform: scale(1.05);
+}
+#det101{
+   height:40px;
+   width:140px;
+   margin-left: 160px;
+   margin-top:10px;
+   background-color: bisque;
+   border-radius: 25px;
+   border:10x solid black;
+   transition: transform 0.3s ease;
+}
+#det101:hover{
+  background-color: rgba(255, 228, 196, 0.734);
+  transform: scale(1.05);
+}
+#pr101{
+     margin-left: 225px;
+     height: 30px;
+     width:90px;
+     background-color: rgba(255, 0, 0, 0.507);
+     border-radius: 10px;
+     text-align: center;
+     transition: transform 0.3s ease;
+}
+#pr101:hover{
+  background-color: rgb(255, 0, 0);
+  transform: scale(1.05);
+}
+/* #tbtct101{ */
+  /* overflow-x:scroll;
+  height: 800px;
+  width:100%; */
+  /* margin-top:-10px; */
+  /* white-space: nowrap; */
+  /* border: 1px solid black; */
+/* } */
+/* #msg101{
+  
+} */

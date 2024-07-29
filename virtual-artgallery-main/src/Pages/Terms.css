@@ -1,0 +1,31 @@
+#termshole{
+    background-color: #E1E2E2;
+    height: 1050px;
+    width: 100%;
+    padding-bottom: 100px;
+
+}
+#termshead{
+    margin-left:50px;
+    margin-top: 80px;
+}
+#termsp{
+    margin-left: 70px;
+    margin-top: 40px;
+    margin-right: 80px;
+}
+#privacyhole{
+    background-color: #E1E2E2;
+    height: 2100px;
+    width: 100%;
+
+}
+#privacyhead{
+    margin-left:50px;
+    margin-top: 80px;
+}
+#privacyp{
+    margin-left: 70px;
+    margin-top: 40px;
+    margin-right: 80px;
+}

@@ -1,0 +1,151 @@
+.payk {
+  /* display: flex; */
+  /* background-color:  #b8b0b0; */
+  margin-right: 450px;
+}
+.shipping {
+  max-width: 600px; 
+  margin: 25px auto;
+  padding: 20px;
+  background-color: #f9f9f9;
+  border-radius: 10px;
+  box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+  margin-right: 500px;
+  margin-top: 60px;
+}
+
+.containe {
+    max-width: 500px;
+    min-height: 500px;
+    /* overflow-y: scroll;  */
+    margin: 25px auto;
+    padding: 20px;
+    background-color: #f9f9f9;
+    border-radius: 10px;
+    box-shadow: 0 0 20px rgba(0, 0, 0, 0.1);
+    /* display: inline; */
+  }
+  
+  #h1io {
+    text-align: center;
+    margin-bottom: 30px;
+    color: #333;
+  }
+  
+  .payment-options {
+    display: flex;
+    justify-content: center;
+    margin-bottom: 30px;
+  }
+  
+  .payment-option {
+    padding: 15px 20px;
+    margin: 0 10px;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 16px;
+    background-color: #007bff;
+    color: #fff;
+    transition: background-color 0.3s ease, color 0.3s ease;
+  }
+  
+  .payment-option:hover,
+  .payment-option.selected {
+    background-color: #0056b3;
+  }
+  
+  .form-group {
+    margin-bottom: 20px;
+  }
+  
+  #upiid {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  
+  #upib {
+    width: calc(100% - 22px);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  
+  .button1 {
+    width: 100%;
+    padding: 15px;
+    background-color: #007bff;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    cursor: pointer;
+    font-size: 18px;
+    transition: background-color 0.3s ease;
+  }
+  
+  .button1:hover {
+    background-color: #0056b3;
+  }
+  
+  .instructions {
+    text-align: center;
+    margin-top: 30px;
+    font-size: 16px;
+  }
+  
+  .error-message {
+    color: red;
+    margin-top: 15px;
+    font-size: 16px;
+  }
+  #cod{
+      width: 70%;
+      height: 35%;
+  }
+  .upii{
+    width: 40%;
+    height: 40%;
+  }
+  .card1 {
+    display: block;
+    margin-bottom: 5px;
+    font-weight: bold;
+  }
+  #cardi{
+    width: calc(65% - 22px);
+    padding: 10px;
+    border: 1px solid #ccc;
+    border-radius: 5px;
+    font-size: 16px;
+  }
+  .fog1{
+    display: flex;
+  }
+  .namq {
+    display: inline;
+  }
+ 
+  
+  @media screen and (max-width: 768px) {
+    #cardi, #upib {
+      width: calc(50% - 22px);
+    }
+  }
+  
+  @media screen and (max-width: 576px) {
+    #cardi, #upib {
+      width: calc(100% - 22px);
+    }
+  
+    .button1 {
+      font-size: 16px;
+    }
+  }
+  
+  @media screen and (max-width: 400px) {
+    .button1 {
+      font-size: 14px;
+    }
+  }
